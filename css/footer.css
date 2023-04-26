@@ -1,8 +1,7 @@
 /* footer */
-.footer_inner a{color: #9f9f9f;}
+.footer_inner a{color: #bebebe;}
 .footer_inner>ul>li{display: inline-block;padding: 0 9px;}
-/* display flex 형태로 수정 */
-.footer_inner>ul>li:nth-child(2) a{font-size: 15px;color: #fff;}
+.footer_inner>ul>li:nth-child(2) a{font-size: 15px;color: #bebebe;}
 .footer_inner>ul>li:nth-child(2) a:hover{text-decoration: underline;}
 
 .footer_inner>dl{margin: 20px 0 30px;}
@@ -14,14 +13,14 @@
 .footer_inner>dl>dd.family_site>a{display: block;padding: 0 14px;background: url(../images/ico_family_arrow.png)no-repeat 162px 0;color: #777;font-size: 12px;}
 .footer_inner>dl>dd.family_site.on>a{background-position-y:-27px;}
 
-.footer_inner>dl>dd.family_site>ul{display: none;position: absolute;bottom: 27px;left: -1px;right: -1px;background: #222;border: 1px solid #6d6d6d;border-radius: 2px;padding: 7px 14px;color: #a3a3a3;font-size: 12px;}
+.footer_inner>dl>dd.family_site>ul{display: none;position: absolute;bottom: 27px;left: -1px;right: -1px;background: #222;border: 1px solid #6d6d6d;border-radius: 2px;padding: 7px 14px;color: #bebebe;font-size: 12px;}
 .footer_inner>dl>dd.family_site.on>ul{display: block;}
 
-.footer_inner>dl>dd.family_site>ul a{color: #777;}
+.footer_inner>dl>dd.family_site>ul a{color: #dedede;}
 .footer_inner>dl>dd.family_site>ul>li>ul{text-indent: 10px;}
-.footer_inner>address{font-size: 12px;line-height: 24px;}
+.footer_inner>address{font-size: 12px;line-height: 24px;color: #bebebe;}
 .footer_inner>address>span{padding: 0 7px;}
-.footer_inner>p.copy{font-size: 12px;padding-top: 5px;letter-spacing: 0;}
+.footer_inner>p.copy{font-size: 12px;padding-top: 5px;letter-spacing: 0;color: #bebebe;}
 
 
 /* top */
